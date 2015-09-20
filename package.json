@@ -1,0 +1,21 @@
+{
+  "name": "twilio",
+  "version": "1.0.0",
+  "description": "techcrunch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yammer"
+  },
+  "keywords": [
+    "messaging"
+  ],
+  "author": "Caitlin",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^2.2.9"
+  }
+}
